@@ -1,0 +1,8 @@
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.MiniCoC.resources
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.Properties.Resources.resources
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.csproj.GenerateResource.Cache
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\bin\Debug\MiniClashOfClans.exe
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\bin\Debug\MiniClashOfClans.pdb
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.exe
+c:\users\migk\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.pdb
+C:\Users\MIGK\documents\visual studio 2010\Projects\MiniClashOfClans\MiniClashOfClans\obj\x86\Debug\MiniClashOfClans.csprojResolveAssemblyReference.cache
